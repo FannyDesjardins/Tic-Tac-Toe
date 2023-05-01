@@ -1,8 +1,7 @@
 ﻿  functions.cpp
-  ttt.cpp
   Generating code
-  Previous IPDB not found, fall back to full compilation.
-C:\Users\Nytro\projetsprog\Tic-Tac-Toe\functions.cpp(31): warning C4715: 'prompt_player': not all control paths return a value
-  All 219 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  1 of 219 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   ttt.vcxproj -> C:\Users\Nytro\projetsprog\Tic-Tac-Toe\x64\Release\Tic-Tac-Toe.exe

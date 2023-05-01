@@ -21,7 +21,7 @@ int main() {
             board[choice] = player;
             print_board(board);
 
-            game_over = check_game_over(board);
+            game_over = check_game_over(board, player);
             if (game_over == true) {
                 std::cout << "Game over\n";
             }
